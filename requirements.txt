@@ -1,0 +1,6 @@
+kaggle
+scikit-learn
+pandas
+numpy
+notebook
+seaborn

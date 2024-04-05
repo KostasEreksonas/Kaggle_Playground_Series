@@ -1,0 +1,10 @@
+*
+!data/
+!data/README.md
+!images/
+!images/*/
+!images/*/s4e4/*
+!*.ipynb
+!*.pkl
+!.gitignore
+!requirements.txt
