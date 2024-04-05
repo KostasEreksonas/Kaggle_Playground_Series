@@ -2,8 +2,9 @@
 !data/
 !data/README.md
 !images/
-!images/*/
-!images/*/s4e4/*
+!images/*
+!images/s4e4/
+!images/s4e4/*
 !*.ipynb
 !*.pkl
 !.gitignore
