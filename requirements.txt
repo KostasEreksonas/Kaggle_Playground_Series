@@ -4,3 +4,4 @@ pandas
 numpy
 notebook
 seaborn
+xgboost
