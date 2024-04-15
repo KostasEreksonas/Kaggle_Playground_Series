@@ -5,4 +5,5 @@ numpy
 notebook
 seaborn
 xgboost
+catboost
 lightgbm
