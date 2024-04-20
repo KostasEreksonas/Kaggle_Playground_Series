@@ -4,6 +4,7 @@ Code for Kaggle playground series challenges
 Table of Contents
 =================
 * [Setup](#Setup)
+* [Episodes](#Episodes)
 
 # Setup
 1. Create a new python virtual environment:
@@ -17,3 +18,7 @@ Table of Contents
 
 4. To open jupyter notebook from the terminal:
 `jupyter notebook`
+
+# Episodes
+
+* Season 4 Episode 4 - Regression with Abalone Dataset
