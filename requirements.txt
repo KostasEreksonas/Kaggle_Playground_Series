@@ -12,6 +12,4 @@ catboost
 lightgbm
 prettytable
 optuna
-#scikit-fuzzy
-#tensorflow[and-cuda]
-#tensorflow-addons
+tensorflow[and-cuda]
