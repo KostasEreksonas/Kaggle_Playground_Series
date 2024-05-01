@@ -5,6 +5,8 @@
 !images/*
 !images/s4e4/
 !images/s4e4/*
+!s4e4/
+!s4e4/*
 !*.ipynb
 !*.pkl
 !.gitignore
