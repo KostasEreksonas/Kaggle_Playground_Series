@@ -5,10 +5,17 @@
 !images/*
 !images/s4e4/
 !images/s4e4/*
+!images/s4e5/
+!images/s4e5/*
 !s4e4/
 !s4e4/*
 !s4e4/data/
 !s4e4/data/README.md
+!s4e5/
+!s4e5/*
+!s4e5/data/
+!s4e5/data/README.md
+!s4e5/data/download_dataset
 !*.ipynb
 !*.pkl
 !.gitignore
