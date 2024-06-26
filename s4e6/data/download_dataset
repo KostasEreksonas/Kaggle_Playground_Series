@@ -1,0 +1,3 @@
+#!/bin/sh
+
+kaggle competitions download -c playground-series-s4e6 && 7z x playground-series-s4e6.zip

@@ -7,6 +7,8 @@
 !images/s4e4/*
 !images/s4e5/
 !images/s4e5/*
+!images/s4e6/
+!images/s4e6/*
 !s4e4/
 !s4e4/*
 !s4e4/data/
@@ -16,6 +18,11 @@
 !s4e5/data/
 !s4e5/data/README.md
 !s4e5/data/download_dataset
+!s4e6/
+!s4e6/*
+!s4e6/data/
+!s4e6/data/README.md
+!s4e6/data/download_dataset
 !*.ipynb
 !*.pkl
 !.gitignore
